@@ -50,6 +50,7 @@ public static void main(String[] args) {
    b = sc.nextInt(); }
 
    System.out.println("Lenin Masapanta");
+   System.out.println("Jennyfer Guayanay");
     }
   }
 }
